@@ -32,7 +32,11 @@ The notebook uses the following libraries:
 
 
 ## 📖 Dataset
-The datasets (1-ByLMUHJUKJp659iZCwnAu6_QFy3nC1j for shear modulus - **matbench_log_gvrh.json**, 1bIP5dcQYdO2KpLCvbubYAToJFv55HPHu for formation energy- **fe_10000.csv**, 1ie91WlCkyZc-kYtPhaUlRWq9oZxGXPWU for band gap - **bg_10000.csv**) contain material compositions and their properties. It is downloaded using gdown from a Google Drive link.
+The datasets:  
+For shear modulus - **matbench_log_gvrh.json**  
+For formation energy- **fe_10000.csv**  
+For band gap - **bg_10000.csv**  
+contain material compositions and their properties. It is downloaded using gdown from a Google Drive link.
 
 *Columns*: ID, formula, target  &nbsp;&nbsp;&nbsp;  *Shape*: (10000, 3)
 
